@@ -63,9 +63,9 @@ python3 Task_tracker.py
 
 All Tasks:
 --------------------------------------------------------------------------------
-ID           Status     Priority Title                          Description         
+ID              Status     Priority     Title                 Description         
 --------------------------------------------------------------------------------
-1753777646963 ○          🔴        finish_project               complete_the_coding_assignment
+1753777646963     ○          🔴        finish_project        complete_the_coding_assignment
 
 🤖 Enter command: complete 1753777646963
 ✅ Task 1753777646963 marked as completed!
